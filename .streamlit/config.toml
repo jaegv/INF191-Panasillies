@@ -1,0 +1,9 @@
+[client]
+showSidebarNavigation = false
+
+[theme]
+
+primaryColor = "#2F6FAB" 
+[theme.sidebar]
+backgroundColor="#20232C"
+secondaryBackgroundColor="#2F6FAB"
